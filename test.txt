@@ -1,3 +1,5 @@
 Changelog vom 14.02.2021 
 
-- Kannst hier schreiben was du willst
+- Whitelist am 15.02.2021 Aktiv
+- Lizenz für Registrieren
+- Mehr kommt bald
