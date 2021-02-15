@@ -3,3 +3,7 @@ Changelog vom 14.02.2021
 - Whitelist am 15.02.2021 Aktiv
 - Lizenz für Registrieren
 - Mehr kommt bald
+
+
+
+- Launcher ist auf dem Neuesten Stand
